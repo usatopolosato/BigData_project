@@ -32,5 +32,6 @@ def main():
     extract_zip(zip_dir_path, csv_dir_path)
     connect_data(csv_dir_path, output_file_name)
 
+
 if __name__ == '__main__':
     main()
